@@ -2,7 +2,7 @@
   "name": "generate-password-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ryanse5000.github.io/ryanse5000-generate-password-app",
+  "homepage": "https://ryanse5000.github.io/generate-password-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
